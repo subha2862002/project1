@@ -1,0 +1,282 @@
+
+.sec{
+    background-color: white;
+    min-height: 45px;
+}
+
+.sect{
+    background-color: skyblue;
+    min-height: 400px;
+}
+.se{
+    background-color:white;
+    min-height: 150px;
+}
+.s{
+    background-color: skyblue;
+    min-height: 300px;
+}
+.pa{
+    font-size: x-small;
+    text-align: left;
+}
+
+.the{
+    font-size: 30px;
+    color: white;
+    
+    
+
+}
+.inboxT{
+    margin-top: 100PX;
+    min-height: 400px;
+}
+.ult{
+    color: white;
+    font-size: small;
+}
+.vist{
+    color: white;
+    font-size: 13px;
+}
+.whi{
+    color: white;
+   
+}
+.inboxthe{
+    text-align: center;
+    margin-top: 14px;
+}
+.inbox3{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+}
+.inbox4{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+}
+.inbox5{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+}
+.icon1{
+    font-size: 30px;
+    padding: 15px;
+    border: 1px solid;
+    display: inline-block;
+    border-radius: 100%;
+}
+.icon2{
+    font-size: 30px;
+    padding: 15px;
+    border:1px solid;
+    display: inline-block;
+    border-radius:100% ;
+}
+.icon3{
+    font-size: 30px;
+    padding: 15px;
+    border: 1px solid;
+    display: inline-block;
+    border-radius: 100%;
+}
+.inbox6{
+    background-color: black;
+
+}
+.black{
+    background-color: black;
+    min-height: 300px;
+
+}
+.inbox6{
+    color: white;
+    text-align: center;
+    padding: 18px;
+
+}
+.h{
+    font-size: 10px;
+}
+.button{
+    color: aqua;
+    
+    
+}
+
+.bu{
+    color: aqua;
+    font-size: 10px;
+}
+.sec2{
+    background-color: white;
+    min-height: 600px;
+    /* padding: 100px; */
+}
+.inbox{
+    text-align: center;
+}
+.sec3{
+    background-color: black;
+   min-height: 250px;
+   text-align: center;
+}
+.ind{
+    text-align: center;
+    color: white;
+    font-size: 10px;
+
+}
+.indo{
+    /* text-align:center; */
+    color: white;
+    font-size: 30px
+}
+.for{
+    text-align: center;
+    color: white;
+}
+.button4{
+    
+    color: aqua;
+    
+margin-top: 30px;
+text-align: center;
+    
+}
+.sec4{
+    background-color: white;
+    min-height: 250px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.copy{
+    
+    font-size: 10px;
+}
+.inbox21{
+    min-height: 200px;
+    /* background-image: url(img1.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+}
+.inbox22{
+    min-height: 200px;
+    /* background-image: url(img2.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+
+}
+.inbox23{
+    min-height: 200px;
+    /* background-image: url(img3.webp); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+
+}
+.inbox24{
+    min-height: 200px;
+    /* background-image: url(img4.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+    
+    
+
+}
+
+
+.inbox25{
+    min-height: 200px;
+    /* background-image: url(img5.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+
+
+
+}
+.inbox26{
+    min-height: 200px;
+    /* background-image: url(img6.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+
+    
+}
+.inbox27{
+    min-height: 200px;
+    /* background-image: url(men1.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+
+    
+
+}
+.inbox28{
+    min-height: 200px;
+    /* background-image: url(men2.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+
+    
+}
+.inbox29{
+    min-height : 200px;
+    /* background-image: url(men3.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+}
+
+    
+.inbox30{
+    min-height: 200px;
+    /* background-image: url(men4.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+
+    
+}
+.inbox31{
+    min-height: 200px;
+    /* background-image: url(men5.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+
+    
+}
+
+.inbox32{
+    min-height: 200px;
+    /* background-image: url(men6.avif); */
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+}
+
+@media(max-width:575px){
+    .inboxT{
+        text-align: center;
+    }
+}
+.in{
+    text-align: center;
+}
+.inboxone{
+    text-align: left;
+}
+
